@@ -10,7 +10,7 @@ terraform {
     storage_account_name = "landingzoneeusiacst"
     container_name = "landing-zone-tf-state"
     key = "landing-zone.tfstate"
-    access_key = "xwXIUJMbI/M8UOEXbU62Rk4wtPgyGzd6K/d5vFTSCcRTwhegmGG4NiJkhQTOXvKgJi212r6NAobt+AStQPQmcw=="
+    access_key = "XXXXXX"
   }
 
   required_providers {
